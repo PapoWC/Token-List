@@ -3,8 +3,8 @@
   "tokens": [
 
     {
-        "name": "Tether",
-        "symbol": "USDT_t",
+        "name": "Tether Tron",
+        "symbol": "USDT",
         "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
         "chainId": 199,
         "decimals": 18,
