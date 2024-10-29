@@ -7,7 +7,7 @@
         "address": "0xc9974c6314d88b05275d9ca71edd6b37d815356f",
         "chainId": 199,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/refs/heads/main/papowcd.png"
+        "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/main/papowcd.png"
     },
     {
         "name": "SATs BitTorrent",
