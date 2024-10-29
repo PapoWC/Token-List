@@ -1,7 +1,7 @@
 {
   "name": "PapoWC Default List",
   "tokens": [
-{
+    {
         "name": "PapoWC BitTorrent WBT",
         "symbol": "pbWBTT",
         "address": "0xc9974c6314d88b05275d9ca71edd6b37d815356f",
@@ -9,7 +9,7 @@
         "decimals": 18,
         "logoURI": "https://d391b93f5f62d9c15f67142e43841acc.ipfscdn.io/ipfs/QmW6vQ5CKZ7krfxE1ebTeAHAnfUSGMDUmz5UJthvbUqHNA"
     },
-  {
+    {
         "name": "#IncaseYouMissedIt",
         "symbol": "ICYMi",
         "address": "0xca424b845497f7204d9301bd13ff87c0e2e86fcf",
