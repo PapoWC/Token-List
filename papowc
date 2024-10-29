@@ -170,11 +170,12 @@
         "logoURI": "https://static.tronscan.org/production/upload/logo/TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR.png"
     }
   ],
-  "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png",
+   "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png",
   "version": {
-    "patch": 1,
-    "major": 0,
-    "minor": 0
+    "patch": 6,
+    "major": 1,
+    "minor": 3
   },
-  "timestamp": "2024-10-29T00:12:46.685Z"
+  "timestamp": "2024-05-27T00:12:46.685Z"
 }
+
