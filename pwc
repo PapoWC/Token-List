@@ -66,14 +66,6 @@
         "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
     },
     {
-        "name": "Decentralized USD",
-        "symbol": "USDD_t",
-        "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
-        "chainId": 199,
-        "decimals": 18,
-        "logoURI": "https://bttcscan.com/token/images/usdd-tron_32.png"
-    },
-    {
         "name": "JustMoney",
         "symbol": "JM",
         "address": "0x388D819724dD6d71760A38F00dc01D310d879771",
