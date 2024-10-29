@@ -87,7 +87,7 @@
         "address": "0xfc364b061fb05a1a4275dd177ba73433c4eafc0e",
         "chainId": 199,
         "decimals": 8,
-        "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png"
+        "logoURI": "https://res.just.money/assets/img/currencies/icr.svg"
     },
     {
         "name": "InterCrone",
@@ -95,7 +95,7 @@
         "address": "0x096C64d79A85C8FD2E963c4aBD9373301D2cf801",
         "chainId": 199,
         "decimals": 8,
-        "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png"
+        "logoURI": "https://res.just.money/assets/img/currencies/icr.svg"
     },
   {
         "name": "Shitcoin",
