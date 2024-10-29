@@ -10,7 +10,7 @@
         "logoURI": "https://github.com/PapoWC/Token-List/blob/main/papowcd.png"
     },
     {
-        "name": "#IncaseYouMissedIt",
+        "name": "IncaseYouMissedIt",
         "symbol": "ICYMi",
         "address": "0x8961dDDb32C008C12b71dB08ae4d8f63B0948615",
         "chainId": 199,
