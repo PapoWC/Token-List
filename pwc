@@ -7,7 +7,15 @@
         "address": "0xc9974c6314d88b05275d9ca71edd6b37d815356f",
         "chainId": 199,
         "decimals": 18,
-        "logoURI": "https://github.com/PapoWC/Token-List/blob/main/papowcd.png"
+        "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/refs/heads/main/papowcd.png"
+    },
+    {
+        "name": "SATs BitTorrent",
+        "symbol": "SATs",
+        "address": "0x0f5A428dc4f225941efbf29d7c957434e35B3b11",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/satscapetown_32.png"
     },
     {
         "name": "IncaseYouMissedIt",
@@ -32,6 +40,14 @@
         "chainId": 199,
         "decimals": 18,
         "logoURI": "https://bttcscan.com/token/images/ether_32.png"
+    },
+    {
+        "name": "Elk ",
+        "symbol": "ELK",
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/elkfinance_32.png"
     },
     {
         "name": "Bitcoin",
