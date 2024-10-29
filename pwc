@@ -55,7 +55,7 @@
         "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
         "chainId": 199,
         "decimals": 18,
-        "logoURI": "https://bttcscan.com/token/images/tetherusdt_32.png"
+        "logoURI": "https://res.just.money/assets/img/currencies/usdt.svg"
     },
     {
         "name": "Purple Youth",
