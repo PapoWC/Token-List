@@ -10,6 +10,14 @@
         "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/main/papowcd.png"
     },
     {
+        "name": "Papo Wealth Capital",
+        "symbol": "PapoWC",
+        "address": "0xfc364b061FB05A1a4275dd177Ba73433C4EaFC0E",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/refs/heads/main/PapoWC.png"
+    },
+    {
         "name": "SATs BitTorrent",
         "symbol": "SATs",
         "address": "0x0f5A428dc4f225941efbf29d7c957434e35B3b11",
