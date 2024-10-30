@@ -25,14 +25,6 @@
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/satscapetown_32.png"
     },
-   {
-        "name": "JUST TRON",
-        "symbol": "JST",
-        "address": "0x17501034Df227D8565A8c11F41df2418F5d403B6",
-        "chainId": 199,
-        "decimals": 18,
-        "logoURI": "https://bttcscan.com/token/images/justtron_32.png"
-    },
     {
         "name": "IncaseYouMissedIt",
         "symbol": "ICYMi",
