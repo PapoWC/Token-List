@@ -11,6 +11,62 @@
         "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
       },
       {
+          "name": "BLACKTWITTER TOKEN",
+          "symbol": "BT",
+          "address": "0x810ef8b28a8da05fa43952c7b7f3484830c17b49",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/main/BT.png"
+      },
+      {
+          "name": "UpStable",
+          "symbol": "USTX",
+          "address": "0x6c8c028d3592b83d6a1d0f53635557fd8dd31545",
+          "chainId": 199,
+          "decimals": 6,
+          "logoURI": "https://bttcscan.com/token/images/ustx_32.png"
+      },
+      {
+          "name": "InterCrone",
+          "symbol": "ICR-b",
+          "address": "0xfc364b061fb05a1a4275dd177ba73433c4eafc0e",
+          "chainId": 199,
+          "decimals": 8,
+          "logoURI": "https://res.just.money/assets/img/currencies/icr.svg"
+      },
+      {
+          "name": "InterCrone",
+          "symbol": "ICR-t",
+          "address": "0x096C64d79A85C8FD2E963c4aBD9373301D2cf801",
+          "chainId": 199,
+          "decimals": 8,
+          "logoURI": "https://res.just.money/assets/img/currencies/icr.svg"
+      },
+      {
+          "name": "Decentralized USD",
+          "symbol": "USDD-t",
+          "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://bttcscan.com/token/images/usdd-tron_32.png"
+      },
+      {
+          "name": "USDC Tron",
+          "symbol": "USDC-t",
+          "address": "0x935faa2fcec6ab81265b301a30467bbc804b43d3",
+          "chainId": 199,
+          "decimals": 6,
+          "logoURI": "https://bttcscan.com/token/images/usdcbttc_32.png"
+      },
+      {
+          "name": "Tether Tron",
+          "symbol": "USDT-t",
+          "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://res.just.money/assets/img/currencies/usdt.svg"
+      },
+      {
           "name": "Elk Finance",
           "symbol": "ELK",
           "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
