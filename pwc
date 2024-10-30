@@ -2,30 +2,206 @@
   "name": "PapoWC Default List",
   "tokens": [
 
+      {
+          "name": "PapoWC BitTorrent WBT",
+          "symbol": "pbWBTT",
+          "address": "0xc9974c6314d88b05275d9ca71edd6b37d815356f",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/main/papowcd.png"
+      },
+      {
+          "name": "Papo Wealth Capital",
+          "symbol": "PapoWC",
+          "address": "0xfc364b061FB05A1a4275dd177Ba73433C4EaFC0E",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/refs/heads/main/PapoWC.png"
+      },
+      {
+          "name": "SATs BitTorrent",
+          "symbol": "SATs",
+          "address": "0x0f5A428dc4f225941efbf29d7c957434e35B3b11",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://bscscan.com/token/images/satscapetown_32.png"
+      },
+      {
+          "name": "IncaseYouMissedIt",
+          "symbol": "ICYMi",
+          "address": "0x8961dDDb32C008C12b71dB08ae4d8f63B0948615",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fj03qss5yfygo60w5emqhu5rnwia3&w=32&q=75"
+      },
+      {
+          "name": "Tron",
+          "symbol": "TRX",
+          "address": "0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662",
+          "chainId": 199,
+          "decimals": 6,
+          "logoURI": "https://bscscan.com/token/images/tron_32.png"
+      },
+      {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "address": "0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://bttcscan.com/token/images/ether_32.png"
+      },
+      {
+          "name": "Elk ",
+          "symbol": "ELK",
+          "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://bscscan.com/token/images/elkfinance_32.png"
+      },
+      {
+          "name": "Bitcoin",
+          "symbol": "WBTC",
+          "address": "0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF",
+          "chainId": 199,
+          "decimals": 8,
+          "logoURI": "https://bttcscan.com/token/images/wrappedbtcbtt_32.png"
+      },
+      {
+          "name": "BNB",
+          "symbol": "BNB",
+          "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://bttcscan.com/token/images/binancebnb_32.png"
+      },
     {
-        "name": "Tether Tron",
-        "symbol": "USDT",
-        "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
+          "name": "Decentralized USD",
+          "symbol": "USDD",
+          "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://bttcscan.com/token/images/usdd-tron_32.png"
+      },
+     {
+          "name": "USDC Tron",
+          "symbol": "USDC",
+          "address": "0x935faa2fcec6ab81265b301a30467bbc804b43d3",
+          "chainId": 199,
+          "decimals": 6,
+          "logoURI": "https://bttcscan.com/token/images/usdcbttc_32.png"
+      },
+      {
+          "name": "Tether Tron",
+          "symbol": "USDT",
+          "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://res.just.money/assets/img/currencies/usdt.svg"
+      },
+      {
+          "name": "Purple Youth",
+          "symbol": "PY",
+          "address": "0xE8456D1105f38e394ea4b0f9B3AA61597c0B39c9",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
+      },
+      {
+          "name": "JustMoney",
+          "symbol": "JM",
+          "address": "0x388D819724dD6d71760A38F00dc01D310d879771",
+          "chainId": 199,
+          "decimals": 8,
+          "logoURI": "https://static.tronscan.org/production/upload/logo/TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR.png"
+      },
+      {
+          "name": "BLACKTWITTER TOKEN",
+          "symbol": "BT",
+          "address": "0x810ef8b28a8da05fa43952c7b7f3484830c17b49",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/refs/heads/main/BT.png"
+      },
+      {
+          "name": "UpStable",
+          "symbol": "USTX",
+          "address": "0x6c8c028d3592b83d6a1d0f53635557fd8dd31545",
+          "chainId": 199,
+          "decimals": 6,
+          "logoURI": "https://bttcscan.com/token/images/ustx_32.png"
+      },
+      {
+          "name": "InterCrone",
+          "symbol": "ICRb",
+          "address": "0xfc364b061fb05a1a4275dd177ba73433c4eafc0e",
+          "chainId": 199,
+          "decimals": 8,
+          "logoURI": "https://res.just.money/assets/img/currencies/icr.svg"
+      },
+      {
+          "name": "InterCrone",
+          "symbol": "ICRt",
+          "address": "0x096C64d79A85C8FD2E963c4aBD9373301D2cf801",
+          "chainId": 199,
+          "decimals": 8,
+          "logoURI": "https://res.just.money/assets/img/currencies/icr.svg"
+      },
+    {
+          "name": "HTX TRON",
+          "symbol": "HTX",
+          "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29160.png"
+      },
+    {
+          "name": "2020 Kruger Coin XAG",
+          "symbol": "KrugerXAG",
+          "address": "0xf199446f85c7C4b26C0044c4F40b23D2ec49Cca2",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/refs/heads/main/XAG.png"
+      },
+      {
+        "name": "JUST TRON",
+        "symbol": "JST",
+        "address": "0x17501034Df227D8565A8c11F41df2418F5d403B6",
         "chainId": 199,
         "decimals": 18,
-        "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+        "logoURI": "https://bttcscan.com/token/images/justtron_32.png"
     },
-    {
-        "name": "Purple Youth",
-        "symbol": "PY",
-        "address": "0xE8456D1105f38e394ea4b0f9B3AA61597c0B39c9",
+   {
+        "name": "WINkLink TRON",
+        "symbol": "WIN",
+        "address": "0xD36CA9a2EfFF2ec05Ed016d7cD28E38659D7D09b",
         "chainId": 199,
         "decimals": 18,
-        "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
+        "logoURI": "https://bttcscan.com/token/images/winklinktron_32.png"
+    },
+   {
+        "name": "APENFT TRON ",
+        "symbol": "NFT",
+        "address": "0x89a93F94C0a3f388930C4A568430F5e8fFFfd3eC",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://bttcscan.com/token/images/apenfttron_32.png"
+    },
+   {
+        "name": "SUN TRON",
+        "symbol": "SUN",
+        "address": "0x76AcCFB75B8Bb7c6c295f04d19c1D184D274c853",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://bttcscan.com/token/images/suntron_32.png"
     },
     {
-        "name": "JustMoney",
-        "symbol": "JM",
-        "address": "0x388D819724dD6d71760A38F00dc01D310d879771",
-        "chainId": 199,
-        "decimals": 8,
-        "logoURI": "https://static.tronscan.org/production/upload/logo/TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR.png"
-    }
+          "name": "Shitcoin",
+          "symbol": "SHIT",
+          "address": "0x3df3E659A9157Df57DDd79118533e38DED129cD1",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://bttcscan.com/token/images/shitcoinshit_32.png"
+      }
   ],
    "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png",
   "version": {
