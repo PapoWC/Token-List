@@ -11,6 +11,22 @@
         "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
       },
       {
+          "name": "HTX TRON",
+          "symbol": "HTX-t",
+          "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29160.png"
+      },
+      {
+          "name": "2020 Kruger Coin XAG",
+          "symbol": "KrugerXAG",
+          "address": "0xf199446f85c7C4b26C0044c4F40b23D2ec49Cca2",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List//main/XAG.png"
+      },
+      {
           "name": "BLACKTWITTER TOKEN",
           "symbol": "BT",
           "address": "0x810ef8b28a8da05fa43952c7b7f3484830c17b49",
@@ -107,7 +123,7 @@
           "logoURI": "https://bttcscan.com/token/images/ether_32.png"
     },
     {
-          "name": "PapoWC BitTorrent WBT",
+          "name": "PapoWC BitTorrent WBTT",
           "symbol": "pbWBTT",
           "address": "0xc9974c6314d88b05275d9ca71edd6b37d815356f",
           "chainId": 199,
@@ -124,7 +140,7 @@
     },
     {
         "name": "JUST TRON",
-        "symbol": "JST",
+        "symbol": "JST-t",
         "address": "0x17501034Df227D8565A8c11F41df2418F5d403B6",
         "chainId": 199,
         "decimals": 18,
@@ -132,7 +148,7 @@
     },
     {
         "name": "WINkLink TRON",
-        "symbol": "WIN",
+        "symbol": "WIN-t",
         "address": "0xD36CA9a2EfFF2ec05Ed016d7cD28E38659D7D09b",
         "chainId": 199,
         "decimals": 18,
@@ -140,7 +156,7 @@
     },
     {
         "name": "APENFT TRON ",
-        "symbol": "NFT",
+        "symbol": "NFT-t",
         "address": "0x89a93F94C0a3f388930C4A568430F5e8fFFfd3eC",
         "chainId": 199,
         "decimals": 18,
@@ -148,7 +164,7 @@
     },
     {
         "name": "SUN TRON",
-        "symbol": "SUN",
+        "symbol": "SUN-t",
         "address": "0x76AcCFB75B8Bb7c6c295f04d19c1D184D274c853",
         "chainId": 199,
         "decimals": 18,
