@@ -1,14 +1,13 @@
 {
   "name": "PapoWC Default List",
   "tokens": [
-
-  {
-        "name": "Purple Youth",
-        "symbol": "PY",
-        "address": "0xE8456D1105f38e394ea4b0f9B3AA61597c0B39c9",
-        "chainId": 199,
-        "decimals": 18,
-        "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
+    {
+      "name": "Purple Youth",
+      "symbol": "PY",
+      "address": "0xE8456D1105f38e394ea4b0f9B3AA61597c0B39c9",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
       },
       {
           "name": "IncaseYouMissedIt",
@@ -185,9 +184,9 @@
           "chainId": 199,
           "decimals": 18,
           "logoURI": "https://bttcscan.com/token/images/shitcoinshit_32.png"
-      }
+    }
   ],
-   "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png",
+   "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/main/PapoWealthCapital.png",
   "version": {
     "patch": 6,
     "major": 1,
