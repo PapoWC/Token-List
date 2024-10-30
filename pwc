@@ -11,6 +11,38 @@
         "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
     },
     {
+        "name": "JUST TRON",
+        "symbol": "JST",
+        "address": "0x17501034Df227D8565A8c11F41df2418F5d403B6",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://bttcscan.com/token/images/justtron_32.png"
+    },
+    {
+        "name": "WINkLink TRON",
+        "symbol": "WIN",
+        "address": "0xD36CA9a2EfFF2ec05Ed016d7cD28E38659D7D09b",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://bttcscan.com/token/images/winklinktron_32.png"
+    },
+    {
+        "name": "APENFT TRON ",
+        "symbol": "NFT",
+        "address": "0x89a93F94C0a3f388930C4A568430F5e8fFFfd3eC",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://bttcscan.com/token/images/apenfttron_32.png"
+    },
+    {
+        "name": "SUN TRON",
+        "symbol": "SUN",
+        "address": "0x76AcCFB75B8Bb7c6c295f04d19c1D184D274c853",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://bttcscan.com/token/images/suntron_32.png"
+    },
+    {
         "name": "JustMoney",
         "symbol": "JM",
         "address": "0x388D819724dD6d71760A38F00dc01D310d879771",
