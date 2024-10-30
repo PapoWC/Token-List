@@ -11,6 +11,14 @@
         "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
     },
     {
+          "name": "PapoWC BitTorrent WBT",
+          "symbol": "pbWBTT",
+          "address": "0xc9974c6314d88b05275d9ca71edd6b37d815356f",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/main/papowcd.png"
+    },
+    {
           "name": "SATs BitTorrent",
           "symbol": "SATs",
           "address": "0x0f5A428dc4f225941efbf29d7c957434e35B3b11",
