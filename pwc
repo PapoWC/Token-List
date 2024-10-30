@@ -9,14 +9,22 @@
         "chainId": 199,
         "decimals": 18,
         "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
-    },
-    {
-          "name": "IncaseYouMissedIt",
-          "symbol": "ICYMi",
-          "address": "0x8961dDDb32C008C12b71dB08ae4d8f63B0948615",
+      },
+      {
+          "name": "Tron",
+          "symbol": "TRX",
+          "address": "0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662",
+          "chainId": 199,
+          "decimals": 6,
+          "logoURI": "https://bscscan.com/token/images/tron_32.png"
+      },
+      {
+          "name": "Ether",
+          "symbol": "ETH-e",
+          "address": "0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006",
           "chainId": 199,
           "decimals": 18,
-          "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fj03qss5yfygo60w5emqhu5rnwia3&w=32&q=75"
+          "logoURI": "https://bttcscan.com/token/images/ether_32.png"
     },
     {
           "name": "PapoWC BitTorrent WBT",
