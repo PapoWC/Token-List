@@ -114,6 +114,14 @@
         "logoURI": "https://static.tronscan.org/production/upload/logo/TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR.png"
     },
     {
+        "name": "BLACKTWITTER TOKEN",
+        "symbol": "BT",
+        "address": "0x810ef8b28a8da05fa43952c7b7f3484830c17b49",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/refs/heads/main/BT.png"
+    },
+    {
         "name": "UpStable",
         "symbol": "USTX",
         "address": "0x6c8c028d3592b83d6a1d0f53635557fd8dd31545",
