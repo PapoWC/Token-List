@@ -11,6 +11,30 @@
         "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
       },
       {
+          "name": "Elk Finance",
+          "symbol": "ELK",
+          "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://bscscan.com/token/images/elkfinance_32.png"
+      },
+      {
+          "name": "Bitcoin",
+          "symbol": "WBTC-e",
+          "address": "0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF",
+          "chainId": 199,
+          "decimals": 8,
+          "logoURI": "https://bttcscan.com/token/images/wrappedbtcbtt_32.png"
+      },
+      {
+          "name": "Binance Token",
+          "symbol": "BNB",
+          "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://bttcscan.com/token/images/binancebnb_32.png"
+      },
+      {
           "name": "Tron",
           "symbol": "TRX",
           "address": "0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662",
