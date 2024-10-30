@@ -11,6 +11,22 @@
         "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
       },
       {
+          "name": "Papo Wealth Capital",
+          "symbol": "PapoWC",
+          "address": "0xfc364b061FB05A1a4275dd177Ba73433C4EaFC0E",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/main/PapoWC.png"
+      },
+      {
+          "name": "IncaseYouMissedIt",
+          "symbol": "ICYMi",
+          "address": "0x8961dDDb32C008C12b71dB08ae4d8f63B0948615",
+          "chainId": 199,
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/main/icymi.png"
+      },
+      {
           "name": "HTX TRON",
           "symbol": "HTX-t",
           "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
