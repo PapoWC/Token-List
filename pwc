@@ -66,14 +66,14 @@
         "logoURI": "https://bttcscan.com/token/images/wrappedbtcbtt_32.png"
     },
     {
-        "name": "BNB",
+        "name": "Binance",
         "symbol": "BNB",
         "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
         "chainId": 199,
         "decimals": 18,
         "logoURI": "https://bttcscan.com/token/images/binancebnb_32.png"
     },
-  {
+    {
         "name": "Decentralized USD",
         "symbol": "USDD",
         "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
@@ -81,7 +81,7 @@
         "decimals": 18,
         "logoURI": "https://bttcscan.com/token/images/usdd-tron_32.png"
     },
-   {
+    {
         "name": "USDC Tron",
         "symbol": "USDC",
         "address": "0x935faa2fcec6ab81265b301a30467bbc804b43d3",
@@ -145,7 +145,7 @@
         "decimals": 8,
         "logoURI": "https://res.just.money/assets/img/currencies/icr.svg"
     },
-  {
+    {
         "name": "HTX TRON",
         "symbol": "HTX",
         "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
@@ -153,7 +153,7 @@
         "decimals": 18,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29160.png"
     },
-  {
+    {
         "name": "2020 Kruger Coin XAG",
         "symbol": "KrugerXAG",
         "address": "0xf199446f85c7C4b26C0044c4F40b23D2ec49Cca2",
@@ -161,7 +161,7 @@
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/refs/heads/main/XAG.png"
     },
-  {
+    {
         "name": "Shitcoin",
         "symbol": "SHIT",
         "address": "0x3df3E659A9157Df57DDd79118533e38DED129cD1",
