@@ -19,12 +19,12 @@
           "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/main/icymi.png"
       },
       {
-          "name": "HTX TRON",
-          "symbol": "HTX-t",
-          "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
+          "name": "Papo Wealth Capital",
+          "symbol": "PapoWC",
+          "address": "0xfc364b061FB05A1a4275dd177Ba73433C4EaFC0E",
           "chainId": 199,
           "decimals": 18,
-          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29160.png"
+          "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/main/PapoWC.png"
       },
       {
           "name": "2020 Kruger Coin XAG",
@@ -43,12 +43,12 @@
           "logoURI": "https://bttcscan.com/token/images/ustx_32.png"
       },
       {
-          "name": "InterCrone",
-          "symbol": "ICR-b",
-          "address": "0xfc364b061fb05a1a4275dd177ba73433c4eafc0e",
+          "name": "BLACKTWITTER TOKEN",
+          "symbol": "BT",
+          "address": "0x810ef8b28a8da05fa43952c7b7f3484830c17b49",
           "chainId": 199,
-          "decimals": 8,
-          "logoURI": "https://res.just.money/assets/img/currencies/icr.svg"
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/PapoWC/Token-List/main/BT.png"
       },
       {
           "name": "InterCrone",
