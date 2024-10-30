@@ -31,7 +31,7 @@
         "address": "0x8961dDDb32C008C12b71dB08ae4d8f63B0948615",
         "chainId": 199,
         "decimals": 18,
-        "logoURI": ""https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png""
+        "logoURI": ""https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png"
     },
     {
         "name": "Tron",
@@ -50,7 +50,7 @@
         "logoURI": "https://bttcscan.com/token/images/ether_32.png"
     },
     {
-        "name": "Elk ",
+        "name": "Elk",
         "symbol": "ELK",
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
         "chainId": 199,
