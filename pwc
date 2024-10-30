@@ -154,8 +154,8 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29160.png"
     },
   {
-        "name": "Kruger Coin XAG",
-        "symbol": "Kruger XAG",
+        "name": "2020 Kruger Coin XAG",
+        "symbol": "KrugerXAG",
         "address": "0xf199446f85c7C4b26C0044c4F40b23D2ec49Cca2",
         "chainId": 199,
         "decimals": 18,
